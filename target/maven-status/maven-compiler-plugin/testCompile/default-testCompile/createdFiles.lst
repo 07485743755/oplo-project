@@ -1,0 +1,4 @@
+co\oplo\cucumber\CucumberRunner.class
+co\oplo\cucumber\steps\MyStepdefs.class
+co\oplo\rough\AuthTest.class
+co\oplo\testBase\TestBase.class
